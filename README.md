@@ -8,7 +8,7 @@
 <p>
   Olá! 👋, Eu sou o Gustavo! Um dedicado estudante de tecnologia.
 
-  - 🌱 Atualmente estou cursnaso Análise e Desenvolvimento de Sistemas, faço cursos extra-curriculáres para me especializar em desenvolvimento back-end e segunraça cibernética!
+  - 🌱 Atualmente estou cursnaso Análise e Desenvolvimento de Sistemas, faço cursos extra-curriculáres para me especializar na área de dados e I.A também!
 
   - 🔭 Tive experiência como jovem aprendiz, agora busco meu primeiro estágio para me consolidar e especializar nas áreas já citadas!!
 </p>
@@ -25,7 +25,6 @@
 <br>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/occhixsz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-occhi-165b32273/)
 
 
